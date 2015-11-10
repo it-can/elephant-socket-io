@@ -1,0 +1,9 @@
+{
+"name": "elephantIO_example_emitter_with_namespace",
+"version": "3.0.0",
+"main": "server.js",
+"dependencies": {
+    "socket.io": "*",
+    "winston": "*"
+}
+}
