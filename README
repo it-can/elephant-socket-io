@@ -1,0 +1,5 @@
+composer update -o
+npm install
+
+node server.js
+php test.php
